@@ -1,8 +1,4 @@
-require 'pry'
 
-def katz_deli
-  Array.new
-end
 
 def line(katz_deli)
   if katz_deli.empty?
